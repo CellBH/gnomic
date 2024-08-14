@@ -15,7 +15,7 @@ setup(
     setup_requires=['pytest-runner'],
     tests_require=['pytest'],
     install_requires=[
-        'grako==3.18.1',
+        'grako==3.18.2',
         'six>=1.8.0'
     ],
     classifiers=[
